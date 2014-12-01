@@ -10,6 +10,8 @@ http://blogs.mentor.com/tom-hausherr/blog/2011/01/28/pcb-design-perfection-start
 
 Other components (mainly QFN packages) have some specific hacks and work-arounds. An example is the use of through hole pads for thermal vias. Another is the use of pads specifically for stencils.
 
+For more info check out my site at: https://prjct.net
+
 Feel free to contact me if you have suggestions, questions, improvements or other comments.
 
 Copyright 2014, Stefan Hamminga.
